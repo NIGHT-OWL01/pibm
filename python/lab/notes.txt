@@ -1,0 +1,2 @@
+best way to get index of max num from array
+do q7 qithout method by using list comprehension on 3d arr
